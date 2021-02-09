@@ -1,2 +1,1 @@
-# MiniCube
-Mini Cube is mini css freamwork and open source project .
+alt ![text](https://uupload.ir/files/54qv_random-cubes_still_2x.jpeg)
