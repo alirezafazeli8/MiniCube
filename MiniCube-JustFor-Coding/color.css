@@ -1,0 +1,110 @@
+/* color start */
+.mc-color-white {
+color: white;
+}
+
+.mc-color-black {
+color: black;
+}
+
+.mc-color-red {
+    color: red;
+}
+
+.mc-color-blue {
+    color: blue;
+}
+
+.mc-color-yellow {
+    color: yellow;
+}
+
+.mc-color-green {
+    color: green;
+}
+
+.mc-color-gray {
+    color: gray;
+}
+
+.mc-color-pink {
+    color: #ff80ed;
+}
+
+.mc-color-light-green {
+    color: #00ff00;
+}
+
+.mc-color-coral {
+    color: #FF7F50;
+}
+.mc-color-pink {
+    color: #ff80ed;
+}
+
+.mc-color-dark {
+    color: #333333;
+}
+
+.mc-color-darkgreen {
+    color: #065535;
+}
+.mc-color-lightblue {
+    color: #2459F1;
+}
+
+/* background color */
+
+.mc-bk-color-white {
+    background-color: white;
+}
+
+.mc-bk-color-black {
+    background-color: black;
+}
+
+.mc-bk-color-red {
+    background-color: red;
+}
+
+.mc-bk-color-blue {
+    background-color: blue;
+}
+
+.mc-bk-color-yellow {
+    background-color: yellow;
+}
+
+.mc-bk-color-green {
+    background-color: green;
+}
+
+.mc-bk-color-gray {
+    background-color: gray;
+}
+
+.mc-bk-color-pink {
+    background-color: #ff80ed;
+}
+
+.mc-bk-color-light-green {
+    background-color: #00ff00;
+}
+
+.mc-bk-color-coral {
+    background-color: #FF7F50;
+}
+.mc-bk-color-pink {
+    background-color: #ff80ed;
+}
+
+.mc-bk-color-dark {
+    background-color: #333333;
+}
+
+.mc-bk-color-darkgreen {
+    background-color: #065535;
+}
+.mc-bk-color-lightblue {
+    background-color: #2459F1;
+}
