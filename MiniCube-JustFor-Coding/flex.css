@@ -65,10 +65,6 @@
     display: flex;
     align-items: stretch;
 }
-.mc-flex-align-baseline {
-    display: flex;
-    align-items: baseline;
-}
 
 /* flex justify property */
 .mc-flex-justify-start {
