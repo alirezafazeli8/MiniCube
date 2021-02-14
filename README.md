@@ -48,6 +48,6 @@
 </div>    
       
  <div align="center">
-  <h1>Minicube<h3>v0.1</h3></h1>
+  <h1>MiniCube<h3>v0.1</h3></h1>
  </div>
 
