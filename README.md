@@ -55,7 +55,7 @@
   <h1>Get In Touch With Me </h1>
   <ul>
     <li>
-      <h2><a href="alirezafazeli2684@gmail.com">Gmail<a/></h2>
+      <h2><a href="alirezafazeli2684@gmail.com" target="_blank">Gmail<a/></h2>
     </li>
   </ul>
  </div>
