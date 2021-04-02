@@ -55,8 +55,10 @@
   <h1>Get In Touch With Me </h1>
   <ul>
     <li>
-      <h2><a href="alirezafazeli2684@gmail.com" target="_blank">Gmail<a/></h2>
+      Gmail: alirezafazeli2684@gmail.com
     </li>
+    <li>
+      Instagram: https://www.instagram.com/alirezafazeli8/
   </ul>
  </div>
       
