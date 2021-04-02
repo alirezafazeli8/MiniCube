@@ -50,4 +50,15 @@
  <div align="center">
   <h1>MiniCube<h3>v0.1</h3></h1>
  </div>
+ 
+ <div>
+  <h1>Get In Touch With Me </h1>
+  <ul>
+    <li>
+      <a href="alirezafazeli2684@gmail.com">Gmail<a/>
+    </li>
+  </ul>
+ </div>
+      
+      
 
